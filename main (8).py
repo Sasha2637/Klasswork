@@ -23,4 +23,5 @@ if m <= k and j <= n or m <= n and j <= k:
 if z <= k and m <= n or z <= n and c <= k:
     print("YES")
 else:
-    print("NO")
+    print("NO") 
+    
